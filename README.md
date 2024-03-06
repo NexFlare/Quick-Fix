@@ -21,9 +21,9 @@ An online platform for college students where they can know TAs better and book 
 <ol>
     <li>
         <h3>Frontend</h3>
-        <code>
+        <p><code>
             npm install
-        </code>
+        </code></p>
     </li>
     <li>
         <h3>Backend</h3>
@@ -41,7 +41,6 @@ An online platform for college students where they can know TAs better and book 
     </li>
 </ol>
 <br><br>
-
 
 <h2>✅ User Stories</h2>
 
